@@ -10,6 +10,7 @@ public class App {
     public App() {}
 
     public static void main(String[] args) {
+        this is a error message;
         System.out.println(MESSAGE);
     }
 
