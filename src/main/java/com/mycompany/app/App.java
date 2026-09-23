@@ -14,6 +14,7 @@ public class App {
     }
 
     public String getMessage() {
+        this is a compilation error;
         return MESSAGE;
     }
 }
